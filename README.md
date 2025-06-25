@@ -10,19 +10,18 @@ About Me:
 I am a highly motivated and results-oriented software engineer with 8 years of experience in designing, developing, and deploying high-quality software solutions. I have a strong passion for leveraging technology to solve complex problems and a proven track record of delivering innovative and impactful results. I thrive in collaborative environments and am always eager to learn new technologies and methodologies.
 
 Skills & Expertise:
-
 •  Languages: JavaScript/TypeScript, Python, Java, C++, Go (list languages in order of proficiency)
-•  Frameworks/Libraries: React, Angular, Vue.js, Node.js, Express.js, Spring Boot, Django, TensorFlow, PyTorch (list frameworks, etc.)
-•  Databases: PostgreSQL, MySQL, MongoDB, Redis, DynamoDB
+•  Frameworks/Libraries: React, Angular, Vue.js, Node.js, Express.js, Spring Boot, Django, TensorFlow, PyTorch (list frameworks, etc.) 
+•  Databases: PostgreSQL, MySQL, MongoDB, Redis, DynamoDB 
 •  Cloud Platforms: AWS (Amazon Web Services), Google Cloud Platform (GCP), Azure
 •  DevOps: Docker, Kubernetes, CI/CD (Continuous Integration/Continuous Deployment), Terraform
 •  Other: Agile methodologies, RESTful APIs, Microservices architecture, Design Patterns, Data Structures and Algorithms
 
 Featured Projects:
 
-•  https://github.com/eGxeeuRFsZ/Hypergraph-JS: Hypergraph-JS - [Brief description of the project, highlighting its key features and technologies used. Quantify achievements whenever possible (e.g., "Improved performance by 30%").] Example: NebulaAI-Core: Optimized edge AI deployment framework achieving 2x inference speed on resource-constrained devices.
-•  [Link to Project 2]: [Project 2 Name] - [Brief description of the project, highlighting its key features and technologies used. Quantify achievements whenever possible.] Example: Hypergraph-JS: Interactive hypergraph visualization library boosting data understanding by 40% in usability tests.
-•  [Link to Project 3]: [Project 3 Name] - [Brief description of the project, highlighting its key features and technologies used. Quantify achievements whenever possible.] Example: Quantum-Blockchain-Simulator: Research tool validating quantum resistance algorithms with 99% accuracy.
+•  <a href="https://github.com/eGxeeuRFsZ/Hypergraph-JS">Hypergraph-JS:</a> - A JavaScript library for visualizing and manipulating hypergraphs in web applications.
+•  [Hypergraph-JS](https://github.com/eGxeeuRFsZ/NebulaAI-Core) Hypergraph-JS: - 
+•  <a href="https://github.com/eGxeeuRFsZ/Hypergraph-JS">Hypergraph-JS:</a> - 
 
 Experience:
 
