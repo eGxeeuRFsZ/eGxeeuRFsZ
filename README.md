@@ -20,11 +20,9 @@ I am a highly motivated and results-oriented software engineer with 8 years of e
 </p>
 
 **Featured Projects:**
-<p>
 •  [NebulaAI-Core]https://github.com/eGxeeuRFsZ/NebulaAI-Core) - A lightweight framework for deploying quantized deep learning models on edge devices.<br>
 •  [Hypergraph-JS](https://github.com/eGxeeuRFsZ/Hypergraph-JS) - A JavaScript library for visualizing and manipulating hypergraphs in web applications.<br>
 •  [Quantum-Blockchain-Simulator](https://github.com/eGxeeuRFsZ/Quantum-Blockchain-Simulator) - A simulator for exploring the interactions between quantum computing and blockchain.<br>
-</p>
 
 **Experience:**
 <p>
@@ -39,8 +37,8 @@ I am a highly motivated and results-oriented software engineer with 8 years of e
 
 **Contact:**
 <p>
-<a href="user@example.com">•  [user@example.com]<br>
-<a href="personalweb.site">•  [personalweb.site]<br>
+<a href="user@example.com">•  user@example.com<br>
+<a href="personalweb.site">•  personalweb.site<br>
 </p>
 
 Let's Connect!
