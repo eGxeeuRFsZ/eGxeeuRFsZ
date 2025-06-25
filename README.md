@@ -11,5 +11,5 @@
 </p>
 ## Hi there 👋
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=pie&size_weight=1&count_weight=0&size_weight=0.5&count_weight=0.5&size_weight=0&count_weight=1)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=pie&size_weight=1&widht=500)
 
