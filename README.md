@@ -9,7 +9,6 @@ About Me:
 
 I am a highly motivated and results-oriented software engineer with 8 years of experience in designing, developing, and deploying high-quality software solutions. I have a strong passion for leveraging technology to solve complex problems and a proven track record of delivering innovative and impactful results. I thrive in collaborative environments and am always eager to learn new technologies and methodologies.
 
-<pre>
 Skills & Expertise: 
 •  Languages: JavaScript/TypeScript, Python, Java, C++, Go (list languages in order of proficiency) 
 •  Frameworks/Libraries: React, Angular, Vue.js, Node.js, Express.js, Spring Boot, Django, TensorFlow, PyTorch
@@ -17,7 +16,6 @@ Skills & Expertise:
 •  Cloud Platforms: AWS (Amazon Web Services), Google Cloud Platform (GCP), Azure 
 •  DevOps: Docker, Kubernetes, CI/CD (Continuous Integration/Continuous Deployment), Terraform 
 •  Other: Agile methodologies, RESTful APIs, Microservices architecture, Design Patterns, Data Structures and Algorithms
-</pre>
 
 Featured Projects:
 •  [NebulaAI-Core]https://github.com/eGxeeuRFsZ/NebulaAI-Core) - A lightweight framework for deploying quantized deep learning models on edge devices.
@@ -25,14 +23,13 @@ Featured Projects:
 •  [Quantum-Blockchain-Simulator](https://github.com/eGxeeuRFsZ/Quantum-Blockchain-Simulator) - A simulator for exploring the interactions between quantum computing and blockchain.
 
 Experience:
-
-•  [Company Name], [Job Title] ([Start Date] - [End Date/Present])
-  •  [Key responsibility 1, quantifying achievements whenever possible (e.g., "Led a team of 5 engineers to develop a new feature that increased user engagement by 20%").]
-  •  [Key responsibility 2, quantifying achievements whenever possible.]
-  •  [Key responsibility 3, quantifying achievements whenever possible.]
-•  [Previous Company Name], [Job Title] ([Start Date] - [End Date])
-  •  [Key responsibility 1, quantifying achievements whenever possible.]
-  •  [Key responsibility 2, quantifying achievements whenever possible.]
+•   Led a team of 5 engineers to develop a new user authentication feature that increased user signup conversion rates by 15%. 
+•   Designed and implemented a microservices architecture for a key business application, reducing response times by 40%. 
+•   Automated the deployment process using Docker and Kubernetes, reducing deployment time from 2 hours to 15 minutes.
+•   **Beta Technologies, Software Engineer** (August 2017 - June 2019)
+•   Developed and maintained RESTful APIs for a web application using Java and Spring Boot. 
+•   Implemented a new data caching strategy using Redis, improving application performance by 25%. 
+•   Contributed to the development of a new mobile app using React Native.
 
 Education:
 
