@@ -5,11 +5,10 @@
 
 ▌A Passionate Software Engineer | Full-Stack Developer | AI Enthusiast
 
-**About Me:**
-
+**About Me:**<br>
 I am a highly motivated and results-oriented software engineer with 8 years of experience in designing, developing, and deploying high-quality software solutions. I have a strong passion for leveraging technology to solve complex problems and a proven track record of delivering innovative and impactful results. I thrive in collaborative environments and am always eager to learn new technologies and methodologies.
 
-**Skills & Expertise:** 
+**Skills & Expertise:** <br>
 •  Languages: JavaScript/TypeScript, Python, Java, C++, Go<br>
 •  Frameworks/Libraries: React, Angular, Vue.js, Node.js, Express.js, Spring Boot, Django, TensorFlow, PyTorch<br>
 •  Databases: PostgreSQL, MySQL, MongoDB, Redis, DynamoDB <br>
@@ -17,7 +16,7 @@ I am a highly motivated and results-oriented software engineer with 8 years of e
 •  DevOps: Docker, Kubernetes, CI/CD, Terraform <br>
 •  Other: Agile methodologies, RESTful APIs, Microservices architecture, Design Patterns, Data Structures and Algorithms<br>
 
-**Featured Projects:**
+**Featured Projects:**<br>
 •  [NebulaAI-Core](https://github.com/eGxeeuRFsZ/NebulaAI-Core) - A lightweight framework for deploying quantized deep learning models on edge devices.<br>
 •  [Hypergraph-JS](https://github.com/eGxeeuRFsZ/Hypergraph-JS) - A JavaScript library for visualizing and manipulating hypergraphs in web applications.<br>
 •  [Quantum-Blockchain-Simulator](https://github.com/eGxeeuRFsZ/Quantum-Blockchain-Simulator) - A simulator for exploring the interactions between quantum computing and blockchain.<br>
@@ -31,11 +30,11 @@ I am a highly motivated and results-oriented software engineer with 8 years of e
 •   Implemented a new data caching strategy using Redis, improving application performance by 25%. <br>
 •   Contributed to the development of a new mobile app using React Native.<br>
 
-**Contact:**
+**Contact:**<br>
 <a href="user@example.com">•  user@example.com<br>
 <a href="personalweb.site">•  personalweb.site<br>
 
-**Let's Connect!**
+**Let's Connect!**<br>
 I'm always open to connecting with other developers, discussing new technologies, and exploring exciting opportunities. Feel free to reach out!
 
 <p align="center">
