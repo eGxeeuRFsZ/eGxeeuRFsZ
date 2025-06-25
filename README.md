@@ -5,7 +5,7 @@
 
 ▌A Passionate Software Engineer | Full-Stack Developer | AI Enthusiast
 
-About Me:
+**About Me:**
 
 I am a highly motivated and results-oriented software engineer with 8 years of experience in designing, developing, and deploying high-quality software solutions. I have a strong passion for leveraging technology to solve complex problems and a proven track record of delivering innovative and impactful results. I thrive in collaborative environments and am always eager to learn new technologies and methodologies.
 
@@ -19,42 +19,29 @@ I am a highly motivated and results-oriented software engineer with 8 years of e
 •  Other: Agile methodologies, RESTful APIs, Microservices architecture, Design Patterns, Data Structures and Algorithms<br>
 </p>
 
-Featured Projects:
-•  [NebulaAI-Core]https://github.com/eGxeeuRFsZ/NebulaAI-Core) - A lightweight framework for deploying quantized deep learning models on edge devices.
-•  [Hypergraph-JS](https://github.com/eGxeeuRFsZ/Hypergraph-JS) - A JavaScript library for visualizing and manipulating hypergraphs in web applications.
-•  [Quantum-Blockchain-Simulator](https://github.com/eGxeeuRFsZ/Quantum-Blockchain-Simulator) - A simulator for exploring the interactions between quantum computing and blockchain.
+**Featured Projects:**
+<p>
+•  [NebulaAI-Core]https://github.com/eGxeeuRFsZ/NebulaAI-Core) - A lightweight framework for deploying quantized deep learning models on edge devices.<br>
+•  [Hypergraph-JS](https://github.com/eGxeeuRFsZ/Hypergraph-JS) - A JavaScript library for visualizing and manipulating hypergraphs in web applications.<br>
+•  [Quantum-Blockchain-Simulator](https://github.com/eGxeeuRFsZ/Quantum-Blockchain-Simulator) - A simulator for exploring the interactions between quantum computing and blockchain.<br>
+</p>
 
-Experience:
-•   Led a team of 5 engineers to develop a new user authentication feature that increased user signup conversion rates by 15%. 
-•   Designed and implemented a microservices architecture for a key business application, reducing response times by 40%. 
-•   Automated the deployment process using Docker and Kubernetes, reducing deployment time from 2 hours to 15 minutes.
-•   **Beta Technologies, Software Engineer** (August 2017 - June 2019)
-•   Developed and maintained RESTful APIs for a web application using Java and Spring Boot. 
-•   Implemented a new data caching strategy using Redis, improving application performance by 25%. 
-•   Contributed to the development of a new mobile app using React Native.
+**Experience:**
+<p>
+•   Led a team of 5 engineers to develop a new user authentication feature that increased user signup conversion rates by 15%.<br>
+•   Designed and implemented a microservices architecture for a key business application, reducing response times by 40%. <br>
+•   Automated the deployment process using Docker and Kubernetes, reducing deployment time from 2 hours to 15 minutes.<br>
+•   **Beta Technologies, Software Engineer** (August 2017 - June 2019)<br>
+•   Developed and maintained RESTful APIs for a web application using Java and Spring Boot. <br>
+•   Implemented a new data caching strategy using Redis, improving application performance by 25%. <br>
+•   Contributed to the development of a new mobile app using React Native.<br>
+</p>
 
-Education:
-
-•  [University Name], [Degree] ([Graduation Date]) - [Major], [Minor (optional)]
-  •  [Relevant coursework or projects (e.g., "Completed a senior design project on distributed systems").]
-•  [Other Educational Institution], [Certification] ([Completion Date])
-
-Open Source Contributions:
-
-•  [Link to Contribution 1]: [Description of Contribution 1 (e.g., "Contributed a bug fix to the React library").]
-•  [Link to Contribution 2]: [Description of Contribution 2.]
-
-Awards & Recognition:
-
-•  [Award Name] - [Awarding Institution] ([Date])
-•  [Other Recognition]
-
-Contact:
-
-•  [Email Address]
-•  [LinkedIn Profile URL]
-•  [Personal Website URL (optional)]
-•  [Twitter Profile URL (optional)]
+**Contact:**
+<p>
+•  [user@example.com]<br>
+•  [personalweb.site]<br>
+</p>
 
 Let's Connect!
 
