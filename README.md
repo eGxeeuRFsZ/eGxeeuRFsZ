@@ -1,13 +1,13 @@
-# Hi there 👋, I'm [eGxeeuRFsZ]
+# Hi there 👋, I'm **eGxeeuRFsZ**
 
-[https://github-readme-stats.vercel.app/api?username=[Your GitHub Username]&show_icons=true&theme=radical](https://github.com/anuraghazra/github-readme-stats)
-[https://github-readme-stats.vercel.app/api/top-langs/?username=[Your GitHub Username]&layout=compact(https://github.com/anuraghazra/github-readme-stats)
+[https://github-readme-stats.vercel.app/api?username=eGxeeuRFsZ&show_icons=true&theme=radical](https://github.com/anuraghazra/github-readme-stats)
+[https://github-readme-stats.vercel.app/api/top-langs/?username=eGxeeuRFsZ&layout=compact(https://github.com/anuraghazra/github-readme-stats)
 
 ▌A Passionate Software Engineer | Full-Stack Developer | AI Enthusiast
 
 About Me:
 
-I am a highly motivated and results-oriented software engineer with [Number] years of experience in designing, developing, and deploying high-quality software solutions. I have a strong passion for leveraging technology to solve complex problems and a proven track record of delivering innovative and impactful results. I thrive in collaborative environments and am always eager to learn new technologies and methodologies.
+I am a highly motivated and results-oriented software engineer with 8 years of experience in designing, developing, and deploying high-quality software solutions. I have a strong passion for leveraging technology to solve complex problems and a proven track record of delivering innovative and impactful results. I thrive in collaborative environments and am always eager to learn new technologies and methodologies.
 
 Skills & Expertise:
 
@@ -20,7 +20,7 @@ Skills & Expertise:
 
 Featured Projects:
 
-•  [Link to Project 1]: [Project 1 Name] - [Brief description of the project, highlighting its key features and technologies used. Quantify achievements whenever possible (e.g., "Improved performance by 30%").] Example: NebulaAI-Core: Optimized edge AI deployment framework achieving 2x inference speed on resource-constrained devices.
+•  https://github.com/eGxeeuRFsZ/Hypergraph-JS: Hypergraph-JS - [Brief description of the project, highlighting its key features and technologies used. Quantify achievements whenever possible (e.g., "Improved performance by 30%").] Example: NebulaAI-Core: Optimized edge AI deployment framework achieving 2x inference speed on resource-constrained devices.
 •  [Link to Project 2]: [Project 2 Name] - [Brief description of the project, highlighting its key features and technologies used. Quantify achievements whenever possible.] Example: Hypergraph-JS: Interactive hypergraph visualization library boosting data understanding by 40% in usability tests.
 •  [Link to Project 3]: [Project 3 Name] - [Brief description of the project, highlighting its key features and technologies used. Quantify achievements whenever possible.] Example: Quantum-Blockchain-Simulator: Research tool validating quantum resistance algorithms with 99% accuracy.
 
