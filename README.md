@@ -18,10 +18,9 @@ Skills & Expertise:
 •  Other: Agile methodologies, RESTful APIs, Microservices architecture, Design Patterns, Data Structures and Algorithms
 
 Featured Projects:
-
-•  <a href="https://github.com/eGxeeuRFsZ/Hypergraph-JS">Hypergraph-JS:</a> - A JavaScript library for visualizing and manipulating hypergraphs in web applications.
-•  [Hypergraph-JS](https://github.com/eGxeeuRFsZ/NebulaAI-Core) Hypergraph-JS: - 
-•  <a href="https://github.com/eGxeeuRFsZ/Hypergraph-JS">Hypergraph-JS:</a> - 
+•  [NebulaAI-Core]https://github.com/eGxeeuRFsZ/NebulaAI-Core) - A lightweight framework for deploying quantized deep learning models on edge devices.
+•  [Hypergraph-JS](https://github.com/eGxeeuRFsZ/Hypergraph-JS) - A JavaScript library for visualizing and manipulating hypergraphs in web applications.
+•  [Quantum-Blockchain-Simulator](https://github.com/eGxeeuRFsZ/Quantum-Blockchain-Simulator) - A simulator for exploring the interactions between quantum computing and blockchain.
 
 Experience:
 
