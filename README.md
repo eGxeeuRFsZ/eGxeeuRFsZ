@@ -12,7 +12,7 @@ I am a highly motivated and results-oriented software engineer with 8 years of e
 <pre>
 Skills & Expertise: 
 •  Languages: JavaScript/TypeScript, Python, Java, C++, Go (list languages in order of proficiency) 
-•  Frameworks/Libraries: React, Angular, Vue.js, Node.js, Express.js, Spring Boot, Django, TensorFlow, PyTorch (list frameworks, etc.) 
+•  Frameworks/Libraries: React, Angular, Vue.js, Node.js, Express.js, Spring Boot, Django, TensorFlow, PyTorch
 •  Databases: PostgreSQL, MySQL, MongoDB, Redis, DynamoDB 
 •  Cloud Platforms: AWS (Amazon Web Services), Google Cloud Platform (GCP), Azure 
 •  DevOps: Docker, Kubernetes, CI/CD (Continuous Integration/Continuous Deployment), Terraform 
