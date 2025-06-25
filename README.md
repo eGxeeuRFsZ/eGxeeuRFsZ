@@ -9,7 +9,7 @@ About Me:
 
 I am a highly motivated and results-oriented software engineer with 8 years of experience in designing, developing, and deploying high-quality software solutions. I have a strong passion for leveraging technology to solve complex problems and a proven track record of delivering innovative and impactful results. I thrive in collaborative environments and am always eager to learn new technologies and methodologies.
 
-<p aling="left>
+<pre aling="left>
 Skills & Expertise: 
 •  Languages: JavaScript/TypeScript, Python, Java, C++, Go (list languages in order of proficiency) 
 •  Frameworks/Libraries: React, Angular, Vue.js, Node.js, Express.js, Spring Boot, Django, TensorFlow, PyTorch (list frameworks, etc.) 
@@ -17,7 +17,7 @@ Skills & Expertise:
 •  Cloud Platforms: AWS (Amazon Web Services), Google Cloud Platform (GCP), Azure 
 •  DevOps: Docker, Kubernetes, CI/CD (Continuous Integration/Continuous Deployment), Terraform 
 •  Other: Agile methodologies, RESTful APIs, Microservices architecture, Design Patterns, Data Structures and Algorithms
-</p>
+</pre>
 
 Featured Projects:
 •  [NebulaAI-Core]https://github.com/eGxeeuRFsZ/NebulaAI-Core) - A lightweight framework for deploying quantized deep learning models on edge devices.
