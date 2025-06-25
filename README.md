@@ -11,6 +11,6 @@
 </p>
 ## Hi there 👋
 
-<p align="center">
-  <img src="https://camo.githubusercontent.com/ec788d16d714f677ca8e16ae2c2102a20a1270a08eae839bd93da216c44ef9e3/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d616e7572616768617a7261266c61796f75743d636f6d70616374" alt="Top Langs" data-canonical-src="![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eGxeeuRFsZ&langs_count=8)" style="max-width: 100%;" width=400>
+<p align="left">
+  <img src="https://camo.githubusercontent.com/ec788d16d714f677ca8e16ae2c2102a20a1270a08eae839bd93da216c44ef9e3/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d616e7572616768617a7261266c61796f75743d636f6d70616374" alt="Top Langs" data-canonical-src="![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eGxeeuRFsZ&langs_count=8)" style="max-width: 100%;" width=1000>
 </p>
