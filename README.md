@@ -39,8 +39,8 @@ I am a highly motivated and results-oriented software engineer with 8 years of e
 
 **Contact:**
 <p>
-•  [user@example.com]<br>
-•  [personalweb.site]<br>
+<a href="user@example.com">•  [user@example.com]<br>
+<a href="personalweb.site">•  [personalweb.site]<br>
 </p>
 
 Let's Connect!
