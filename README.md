@@ -9,7 +9,6 @@
   <img alt="GitHub closed pull requests" src="https://img.shields.io/github/issues-pr-closed/rzashakeri/beautify-github-profile?color=blue&style=flat-square">
 <a href="readme-fa.md"><img alt="Static Badge" src="https://img.shields.io/badge/translation-farsi-blue?style=flat-square"></a>
 </p>
-## Hi there 👋
-
+<p align="center">
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=pie&size_weight=1&widht=500)
-
+</p>
