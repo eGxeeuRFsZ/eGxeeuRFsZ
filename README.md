@@ -22,7 +22,7 @@ I am a highly motivated and results-oriented software engineer with 8 years of e
 •  [Hypergraph-JS](https://github.com/eGxeeuRFsZ/Hypergraph-JS) - A JavaScript library for visualizing and manipulating hypergraphs in web applications.<br>
 •  [Quantum-Blockchain-Simulator](https://github.com/eGxeeuRFsZ/Quantum-Blockchain-Simulator) - A simulator for exploring the interactions between quantum computing and blockchain.<br>
 
-**Experience:**
+**Experience:**<br>
 •   Led a team of 5 engineers to develop a new user authentication feature that increased user signup conversion rates by 15%.<br>
 •   Designed and implemented a microservices architecture for a key business application, reducing response times by 40%. <br>
 •   Automated the deployment process using Docker and Kubernetes, reducing deployment time from 2 hours to 15 minutes.<br>
