@@ -1,8 +1,5 @@
 # Hi there 👋, I'm **eGxeeuRFsZ**
 
-[https://github-readme-stats.vercel.app/api?username=eGxeeuRFsZ&show_icons=true&theme=radical](https://github.com/anuraghazra/github-readme-stats)
-[https://github-readme-stats.vercel.app/api/top-langs/?username=eGxeeuRFsZ&layout=compact(https://github.com/anuraghazra/github-readme-stats)
-
 ▌A Passionate Software Engineer | Full-Stack Developer | AI Enthusiast
 
 **About Me:**<br>
