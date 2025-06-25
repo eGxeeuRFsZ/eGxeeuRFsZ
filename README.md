@@ -12,6 +12,5 @@
 ## Hi there 👋
 
 <p align="center">
-  <img src="https://camo.githubusercontent.com/166adcf892a44c18c2ec02b4a1407de460cd2d3acc2e3e758551d75960fc04cc/68747470733a2f2f7265732e636c6f7564696e6172792e636f6d2f616e7572616768617a72612f696d6167652f75706c6f61642f76313539353137343533362f6772732d7468656d65735f6c34796e6a612e706e67" alt="GitHub Readme Stats Themes" data-canonical-src="https://res.cloudinary.com/anuraghazra/image/upload/v1595174536/grs-themes_l4ynja.png" style="max-width: 100%;" width=400>
-  <img src="https://camo.githubusercontent.com/ec788d16d714f677ca8e16ae2c2102a20a1270a08eae839bd93da216c44ef9e3/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d616e7572616768617a7261266c61796f75743d636f6d70616374" alt="Top Langs" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&amp;layout=compact" style="max-width: 100%;" width=400>
+  <img src="https://camo.githubusercontent.com/ec788d16d714f677ca8e16ae2c2102a20a1270a08eae839bd93da216c44ef9e3/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d616e7572616768617a7261266c61796f75743d636f6d70616374" alt="Top Langs" data-canonical-src="![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eGxeeuRFsZ&langs_count=8)" style="max-width: 100%;" width=400>
 </p>
