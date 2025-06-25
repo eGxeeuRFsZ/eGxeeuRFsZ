@@ -10,5 +10,5 @@
 <a href="readme-fa.md"><img alt="Static Badge" src="https://img.shields.io/badge/translation-farsi-blue?style=flat-square"></a>
 </p>
 <p align="center">
-  <img src="(https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=pie&size_weight=1&widht=500)" alt=top langs>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=pie&size_weight=1" alt=top langs>
 </p>
